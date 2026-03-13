@@ -49,7 +49,7 @@ sales-dashboard/
 ## 📸 Dashboard Preview
 > *(Add your Power BI screenshot here after building it)*
 
-![Dashboard Overview](screenshots/dashboard_overview.png)
+![Dashboard Overview]Screenshot 2026-03-13 172209.png
 
 ---
 
