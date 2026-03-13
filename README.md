@@ -48,7 +48,7 @@ sales-dashboard/
 
 ## 📸 Dashboard Preview
 
-![Dashboard Overview](Screenshot 2026-03-13 172209.png)
+![Dashboard Overview](https://github.com/emmu14/sales-dashboard/blob/main/Screenshot%202026-03-13%20172209.png)
 
 ---
 
