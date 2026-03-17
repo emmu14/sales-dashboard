@@ -71,7 +71,7 @@ sales-dashboard/
 I am learning data analytics and building projects to grow my skills.  
 This is Project #1 in my portfolio.
 
-📧 emmanuvelchristin2@@gmail.com 
+📧 emmanuvelchristin2@gmail.com 
 🔗 https://www.linkedin.com/in/emmanuvel-christin-63b585264
 
 ---
